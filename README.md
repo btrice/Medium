@@ -47,3 +47,10 @@ The best story i read on medium.com
 - [How we launched the 2 app on the app store](https://medium.com/swlh/how-we-launched-the-2-app-on-the-app-store-53d06536b3f3?source=userActivityShare-484578068b7e-1524673506)
 - [7 tools to help you build an app without writing code](https://blog.producthunt.com/7-tools-to-help-you-build-an-app-without-writing-code-cb4eb8cfe394?source=userActivityShare-484578068b7e-1524673517)
 - [Entreprendre autour d'une application mobile](https://medium.com/@Phil_Boisney/entreprendre-autour-dune-application-mobile-un-an-apr%C3%A8s-7fe28384a14c?source=userActivityShare-484578068b7e-1524674873)
+
+### 3 - Open Letter
+- [An open letter to my ceo](https://medium.com/@taliajane/an-open-letter-to-my-ceo-fb73df021e7a)
+- [Why isn't anyone calling out stoppelman](https://medium.com/@troyjensen/why-isn-t-anyone-calling-out-stoppelman-977410b5917e)
+- [An open letter to managers of women](https://medium.com/@JasonShen/an-open-letter-to-managers-of-women-58b1655943ce?source=userActivityShare-484578068b7e-1524674102)
+- [Dear microsoft](https://slackhq.com/dear-microsoft-8d20965d2849?source=userActivityShare-484578068b7e-1524674565)
+- [A letter to my daughter](https://medium.com/personal-growth/a-letter-to-my-daughter-c6d39270384?source=userActivityShare-484578068b7e-1524675104)
