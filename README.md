@@ -90,3 +90,19 @@ The best story i read on medium.com
 - [How do you get early traction for your startup](https://blog.producthunt.com/how-do-you-get-early-traction-for-your-startup-41b6563f946b?source=userActivityShare-484578068b7e-1524674626)
 - [What every founder should constantly be thinking about](https://blog.producthunt.com/what-every-founder-should-constantly-be-thinking-about-fcdc2e2ec851?source=userActivityShare-484578068b7e-1524674671)
 - [Getting out of the startup rat race](https://blog.baremetrics.com/getting-out-of-the-startup-rat-race-66a5a0ca3055?source=userActivityShare-484578068b7e-1524675079)
+
+
+### 6 - Tech
+- [Apple has published a great free learn to code course for swift on github](https://medium.com/ios-os-x-development/apple-has-published-a-great-free-learn-to-code-course-for-swift-on-github-feb5e4d70691?source=userActivityShare-484578068b7e-1524673011)
+- [The web application myth](https://medium.com/@codepo8/the-web-application-myth-69c6b1506515?source=userActivityShare-484578068b7e-1524673023)
+- [Product scientist](https://medium.com/@sall/product-scientist-ffd1ae846172?source=userActivityShare-484578068b7e-1524673044)
+- [Best of 2015](https://medium.com/swlh/best-of-2015-pfffffffft-79d9b014f4de?source=userActivityShare-484578068b7e-1524673295)
+- [Today there's a complete disrespect for what it takes to build a business](https://medium.com/@garyvee/today-there-s-a-complete-disrespect-for-what-it-takes-to-build-a-business-f452b6ca7665?source=userActivityShare-484578068b7e-1524673528)
+- [The internet economy](https://medium.com/@cdixon/the-internet-economy-fc43f3eff58a?source=userActivityShare-484578068b7e-1524673559)
+- [Goodbye object oriented programming](https://medium.com/@cscalfani/goodbye-object-oriented-programming-a59cda4c0e53?source=userActivityShare-484578068b7e-1524674060)
+- [The decline of stack overflow](https://hackernoon.com/the-decline-of-stack-overflow-7cb69faa575d?source=userActivityShare-484578068b7e-1524674258)
+- [Why i feel like i am sherlock at my software job](https://medium.freecodecamp.org/why-i-feel-like-i-am-sherlock-at-my-software-job-4a303ebdaf63?source=userActivityShare-484578068b7e-1524674552)
+- [I dont belong in tech](https://medium.com/startup-grind/i-dont-belong-in-tech-3d73d8fd6f34?source=userActivityShare-484578068b7e-1524674843)
+- [The best compliment i have ever received](https://byrslf.co/the-best-compliment-i-have-ever-received-2f53dbbc3b9?source=userActivityShare-484578068b7e-1524674830)
+- [Dating a programmer](https://hackernoon.com/dating-a-programmer-d302693d10f5?source=userActivityShare-484578068b7e-1524675031)
+- [Ten years in nobody has come up with a use case for blockchain](https://hackernoon.com/ten-years-in-nobody-has-come-up-with-a-use-case-for-blockchain-ee98c180100?source=userActivityShare-484578068b7e-1524675285)
