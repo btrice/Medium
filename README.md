@@ -54,3 +54,14 @@ The best story i read on medium.com
 - [An open letter to managers of women](https://medium.com/@JasonShen/an-open-letter-to-managers-of-women-58b1655943ce?source=userActivityShare-484578068b7e-1524674102)
 - [Dear microsoft](https://slackhq.com/dear-microsoft-8d20965d2849?source=userActivityShare-484578068b7e-1524674565)
 - [A letter to my daughter](https://medium.com/personal-growth/a-letter-to-my-daughter-c6d39270384?source=userActivityShare-484578068b7e-1524675104)
+
+### 4 - Product
+- [Building products with a community in mind](https://medium.com/swlh/building-products-with-a-community-in-mind-dff3f81a4ffd?source=userActivityShare-484578068b7e-1524673098)
+- [Product management analytics what metrics should you be measuring](https://medium.com/product-breakdown/product-management-analytics-what-metrics-should-you-be-measuring-241609b1950d?source=userActivityShare-484578068b7e-1524673237)
+- [Don t leave growth to chance](https://medium.com/swlh/don-t-leave-growth-to-chance-2f8d1af98da8?source=userActivityShare-484578068b7e-1524673448)
+- [Mvpm minimum viable product manager](https://blackboxofpm.com/mvpm-minimum-viable-product-manager-e1aeb8dd421?source=userActivityShare-484578068b7e-1524673497)
+- [The future of startup marketing](https://medium.com/swlh/the-future-of-startup-marketing-9b2fa0bf1c91?source=userActivityShare-484578068b7e-1524674136)
+- [How to build an early customer base for your startup](https://blog.producthunt.com/how-to-build-an-early-customer-base-for-your-startup-e932bc33f866?source=userActivityShare-484578068b7e-1524674682)
+- [The cost of native mobile app development is too damn high](https://hackernoon.com/the-cost-of-native-mobile-app-development-is-too-damn-high-4d258025033a?source=userActivityShare-484578068b7e-1524674901)
+- [Stop the spammy notifications](https://uxdesign.cc/stop-the-spammy-notifications-9fbac87dc077?source=userActivityShare-484578068b7e-1524674917)
+	
