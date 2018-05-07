@@ -29,4 +29,21 @@ The best story i read on medium.com
 - [Charles bukowski lesclavage du salariat](https://medium.com/essentiels/charles-bukowski-lesclavage-du-salariat-57d9e4f75081?source=userActivityShare-484578068b7e-1524675204)
 - [How not following my dreams enabled me to build a startup with 3.2 million users](https://medium.com/swlh/how-not-following-my-dreams-enabled-me-to-build-a-startup-with-3-2-million-users-b03a9cb05cb9?source=userActivityShare-484578068b7e-1524675254)
 
-
+### 2 - App
+- [The press release is dead here are its replacements](https://medium.com/swlh/the-press-release-is-dead-here-are-its-replacements-f0a0a27d6549?source=userActivityShare-484578068b7e-1524672678)
+- [Nobody wants your app](https://medium.com/swlh/nobody-wants-your-app-6af1f7f69cb7?source=userActivityShare-484578068b7e-1524672953)
+- [Four ways to grow your app organically](https://medium.com/point-nine-news/four-ways-to-grow-your-app-organically-87e5b9eac2ae?source=userActivityShare-484578068b7e-1524672966)
+- [Track improve repeat learning's from closely listening to the app metrics](https://medium.com/mobile-growth/track-improve-repeat-learning-s-from-closely-listening-to-the-app-metrics-7df22fe6a6b0?source=userActivityShare-484578068b7e-1524672978)
+- [How i got 2.3m app downloads without spending a cent on marketing](https://stories.appbot.co/how-i-got-2-3m-app-downloads-without-spending-a-cent-on-marketing-f4823b6bc779?source=userActivityShare-484578068b7e-1524672990)
+- [The rise and fall of everest the app](https://blog.producthunt.com/the-rise-and-fall-of-everest-the-app-b0d2e6cb594c?source=userActivityShare-484578068b7e-1524673000)
+- [The upside of copycat apps](https://blog.tinyhearts.com/the-upside-of-copycat-apps-3a8ec21b973b?source=userActivityShare-484578068b7e-1524673110)
+- [Let's talk about white app icons](https://medium.com/swlh/let-s-talk-about-white-app-icons-ce2e83b9eb86?source=userActivityShare-484578068b7e-1524673122)
+- [16 mobile mistakes that plummet user retention rates](https://medium.com/mobile-growth/16-mobile-mistakes-that-plummet-user-retention-rates-2869d0306649?source=userActivityShare-484578068b7e-1524673155)
+- [Why you shouldn't bother creating a mobile app](https://medium.com/inside-birdly/why-you-shouldn-t-bother-creating-a-mobile-app-328af62fe0e5?source=userActivityShare-484578068b7e-1524673170)
+- [The definitive guide to growth hacking apps](https://stories.appbot.co/the-definitive-guide-to-growth-hacking-apps-60f1af871bff?source=userActivityShare-484578068b7e-1524673256)
+- [Knowing when and how to pivot or why didn't news apps work](https://medium.com/@jason/knowing-when-and-how-to-pivot-or-why-didn-t-news-apps-work-8c6cb4f8227e?source=userActivityShare-484578068b7e-1524673350)
+- [7 days of being](https://medium.com/swlh/7-days-of-being-19797a6f689d?source=userActivityShare-484578068b7e-1524673427)
+- [The future is without apps](https://medium.com/fwd-thoughts/the-future-is-without-apps-ddf43ec52aab?source=userActivityShare-484578068b7e-1524673486)
+- [How we launched the 2 app on the app store](https://medium.com/swlh/how-we-launched-the-2-app-on-the-app-store-53d06536b3f3?source=userActivityShare-484578068b7e-1524673506)
+- [7 tools to help you build an app without writing code](https://blog.producthunt.com/7-tools-to-help-you-build-an-app-without-writing-code-cb4eb8cfe394?source=userActivityShare-484578068b7e-1524673517)
+- [Entreprendre autour d'une application mobile](https://medium.com/@Phil_Boisney/entreprendre-autour-dune-application-mobile-un-an-apr%C3%A8s-7fe28384a14c?source=userActivityShare-484578068b7e-1524674873)
